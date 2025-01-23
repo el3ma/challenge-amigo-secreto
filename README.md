@@ -1,17 +1,15 @@
 # Challenge Amigo Secreto
 ___
+![Static Badge](https://img.shields.io/badge/Challenge_ONE-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=black)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=black)
+
+
+
 
 ## Descripción
 Este proyecto es una aplicación para organizar un amigo secreto de manera fácil y divertida.
-
-## Instalación
-1. Clona el repositorio: `git clone https://github.com/el3ma/challenge-amigo-secreto.git`
-2. Navega al directorio del proyecto: `cd challenge-amigo-secreto`
-3. Instala las dependencias: `npm install`
-
-## Uso
-1. Ejecuta la aplicación: `npm start`
-2. Sigue las instrucciones en pantalla para organizar tu amigo secreto.
 
 ## Contribución
 1. Haz un fork del proyecto.
@@ -34,5 +32,4 @@ En desarrollo.
 
 
 ## Enlaces
-- [Documentación](https://github.com/el3ma/challenge-amigo-secreto/wiki)
-- [Demo](https://challenge-amigo-secreto.herokuapp.com)
+- [Demo](https://el3ma.github.io/challenge-amigo-secreto/)
