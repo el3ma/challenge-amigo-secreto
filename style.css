@@ -164,3 +164,17 @@ ul {
 .name-list{
     text-align: center;
 }
+
+@media (max-width: 768px) {
+    .main-content{
+        padding: 0 1.5%;
+    }
+    .header-banner{
+        display: flex;
+        flex-direction: column;
+    }
+    .input-section{
+        border-radius: 0,4rem;
+    }
+    
+}
